@@ -51,11 +51,12 @@ console.log(typeof c);
 // Додаткове для тих хто цікавився prompt'om
 // - За допомогою 3-х різних prompt() отримати 3 слова які являються вашими Ім'ям, По батькові та роками. та вивести в консоль
 
-let Name = prompt('Як вас звати?',);
-let MiddleName = prompt('Як вас по батькові?',);
-let Age = prompt('Скільки вам років?',);
+let name1 = prompt('Як вас звати?',);
+let middleName1 = prompt('Як вас по батькові?',);
+let age1 = prompt('Скільки вам років?', );
 
-console.log(Name);
-console.log(MiddleName);
-console.log(Age);
+
+console.log(name1);
+console.log(middleName1);
+console.log(+age1);
 
