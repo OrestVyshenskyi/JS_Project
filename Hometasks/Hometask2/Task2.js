@@ -1,7 +1,16 @@
 // Масиви та об'єкти:
 // - Створити масив, наповнити його 10 елементами будь-якого типу, вивести кожен елемент в консоль
 let array = [10, true, 'orest', 122, 30, false, 0.16, 'vyshenskyi', 1000, -333]
-console.log(array);
+console.log(array[0]);
+console.log(array[1]);
+console.log(array[2]);
+console.log(array[3]);
+console.log(array[4]);
+console.log(array[5]);
+console.log(array[6]);
+console.log(array[7]);
+console.log(array[8]);
+console.log(array[9]);
 
 // - Створити 3 об'єкти які описують книги. Поля об'єкту : title ,pageCount, genre.
 let books = {
