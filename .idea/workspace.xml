@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f5fa5b4-b695-46f1-bafd-51be94325710" name="Changes" comment="Complete and add Hometask2" />
+    <list default="true" id="9f5fa5b4-b695-46f1-bafd-51be94325710" name="Changes" comment="add console.log arrays">
+      <change afterPath="$PROJECT_DIR$/Hometasks/Hometask3/Task3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hometasks/Hometask3/Task3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hometasks/Hometask3/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -55,6 +60,8 @@
       <updated>1675243020583</updated>
       <workItem from="1675243021800" duration="4034000" />
       <workItem from="1675597129266" duration="7379000" />
+      <workItem from="1675678691769" duration="283000" />
+      <workItem from="1675851468016" duration="8749000" />
     </task>
     <task id="LOCAL-00001" summary="Add Hometask 1">
       <created>1675245373039</created>
@@ -77,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675604672732</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add console.log arrays">
+      <created>1675678838318</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675678838318</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +101,7 @@
     <MESSAGE value="Add Hometask 1" />
     <MESSAGE value="change Hometask 1" />
     <MESSAGE value="Complete and add Hometask2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete and add Hometask2" />
+    <MESSAGE value="add console.log arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="add console.log arrays" />
   </component>
 </project>
