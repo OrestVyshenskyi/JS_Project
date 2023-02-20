@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f5fa5b4-b695-46f1-bafd-51be94325710" name="Changes" comment="Add Hometask 4_1">
-      <change afterPath="$PROJECT_DIR$/Hometasks/Hometask4_2/Task4_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hometasks/Hometask4_2/Task4_2.js" afterDir="false" />
+    <list default="true" id="9f5fa5b4-b695-46f1-bafd-51be94325710" name="Changes" comment="Add Hometask 4_2">
+      <change afterPath="$PROJECT_DIR$/Hometasks/Hometask5/Task5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hometasks/Hometask5/Task5.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +63,7 @@
       <workItem from="1675851468016" duration="9276000" />
       <workItem from="1676213362416" duration="17209000" />
       <workItem from="1676312004520" duration="240000" />
-      <workItem from="1676737305144" duration="1115000" />
+      <workItem from="1676737305144" duration="11792000" />
     </task>
     <task id="LOCAL-00001" summary="Add Hometask 1">
       <created>1675245373039</created>
@@ -107,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676292639643</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add Hometask 4_1">
+      <created>1676738507792</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676738507793</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +127,7 @@
     <MESSAGE value="add console.log arrays" />
     <MESSAGE value="Add Hometask 3" />
     <MESSAGE value="Add Hometask 4_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Hometask 4_1" />
+    <MESSAGE value="Add Hometask 4_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Hometask 4_2" />
   </component>
 </project>
