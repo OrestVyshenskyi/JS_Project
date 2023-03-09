@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f5fa5b4-b695-46f1-bafd-51be94325710" name="Changes" comment="Complete Hometask9!">
+      <change afterPath="$PROJECT_DIR$/Hometasks/Hometask10/Seesion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hometasks/Hometask10/Task10.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hometasks/Hometask10/Task10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hometasks/Hometask10/Task10.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hometasks/Hometask9/Task9.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hometasks/Hometask9/Task9.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Hometasks/Hometask9/Task9.js" beforeDir="false" afterPath="$PROJECT_DIR$/Hometasks/Hometask9/Task9.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,9 +21,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -35,20 +41,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,7 +71,12 @@
       <workItem from="1676312004520" duration="240000" />
       <workItem from="1676737305144" duration="17007000" />
       <workItem from="1677416873355" duration="9185000" />
-      <workItem from="1677651221482" duration="16663000" />
+      <workItem from="1677651221482" duration="17282000" />
+      <workItem from="1677789229822" duration="676000" />
+      <workItem from="1678008799532" duration="4793000" />
+      <workItem from="1678091555176" duration="9821000" />
+      <workItem from="1678191733048" duration="1583000" />
+      <workItem from="1678358214758" duration="4367000" />
     </task>
     <task id="LOCAL-00001" summary="Add Hometask 1">
       <created>1675245373039</created>
@@ -144,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677756394003</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Complete Hometask9!">
+      <created>1677769716564</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1677769716564</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
