@@ -58,19 +58,32 @@ for (let i = 0; i < 100; i++) {
 
 let prev = document.createElement('button')
 let next = document.createElement('button')
+prev.classList.add('disabled', 'disabled');
 prev.innerText = 'PREV';
 next.innerText = 'NEXT';
-let num = 0;
+let num = 1;
 
 prev.onclick = () => func (num -= 1, 10);
 next.onclick = () => func (num += 1, 10);
-
 function func(num, lastIndex) {
     let div = document.createElement('div');
     div.classList.add('name', 'mass');
     let firstIndex = (num - 1) * lastIndex;
     let secondIndex = num * lastIndex;
-
+    if (firstIndex < 0 ){
+        prev.setAttribute('disabled', 'disabled');
+        return;
+    }
+    else{
+        prev.removeAttribute('disabled');
+    }
+    if (secondIndex > mass100.length ){
+        next.setAttribute('disabled', 'disabled');
+        return
+    }
+    else {
+        next.removeAttribute('disabled');
+    }
     for (let i = firstIndex; i < secondIndex; i++) {
         const mass1 = mass100[i];
         let mass = document.createElement('div')

@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f5fa5b4-b695-46f1-bafd-51be94325710" name="Changes" comment="Complete Hometask9!">
-      <change afterPath="$PROJECT_DIR$/Hometasks/Hometask10/Seesion.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hometasks/Hometask10/Task10.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hometasks/Hometask10/Task10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hometasks/Hometask10/Task10.js" afterDir="false" />
+    <list default="true" id="9f5fa5b4-b695-46f1-bafd-51be94325710" name="Changes" comment="Complete Hometask10!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hometasks/Hometask10/Task10.js" beforeDir="false" afterPath="$PROJECT_DIR$/Hometasks/Hometask10/Task10.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Hometasks/Hometask9/Task9.html" beforeDir="false" afterPath="$PROJECT_DIR$/Hometasks/Hometask9/Task9.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Hometasks/Hometask9/Task9.js" beforeDir="false" afterPath="$PROJECT_DIR$/Hometasks/Hometask9/Task9.js" afterDir="false" />
     </list>
@@ -76,7 +73,7 @@
       <workItem from="1678008799532" duration="4793000" />
       <workItem from="1678091555176" duration="9821000" />
       <workItem from="1678191733048" duration="1583000" />
-      <workItem from="1678358214758" duration="4367000" />
+      <workItem from="1678358214758" duration="5673000" />
     </task>
     <task id="LOCAL-00001" summary="Add Hometask 1">
       <created>1675245373039</created>
@@ -162,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677769716564</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Complete Hometask10!">
+      <created>1678366666705</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1678366666706</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +184,7 @@
     <MESSAGE value="Remake Hometask 5" />
     <MESSAGE value="Complete Hometask8!" />
     <MESSAGE value="Complete Hometask9!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete Hometask9!" />
+    <MESSAGE value="Complete Hometask10!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete Hometask10!" />
   </component>
 </project>
